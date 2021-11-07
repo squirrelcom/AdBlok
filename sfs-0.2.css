@@ -1,8 +1,8 @@
 body {
-  background: #e6f2ff;
+  background: #FFFFFF;
   margin: 0;
   font: 12px/16px monospace;
-  color: #FFFFFF;
+  color: #000000;
 }
 main {
   margin: 28px auto 0;
@@ -20,7 +20,7 @@ main {
   padding: 1ch;
 }
 #sf_log {
-  background: #e6f2ff;
+  background: #FFFFFF;
   margin: 0;
   padding: 1ch;
 }
